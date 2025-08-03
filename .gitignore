@@ -1,1 +1,32 @@
-.env
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Virtual environments
+.env/
+.venv/
+env/
+venv/
+ENV/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Pytest and coverage
+.cache/
+.pytest_cache/
+coverage.xml
+htmlcov/
+*.cover
+*.py,cover
+
+# LangGraph artifacts
+logs/
+*.log
+data/
+artifacts/
+graph_output/

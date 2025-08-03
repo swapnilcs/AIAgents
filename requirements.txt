@@ -8,5 +8,4 @@ langchain-openai
 ppprint
 arxiv
 wikipedia
-ipython
 
